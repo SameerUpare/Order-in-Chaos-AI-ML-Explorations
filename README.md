@@ -20,7 +20,7 @@ This journey is about:
 
 | Week | Topic | Code | Article |
 | :--- | :--- | :--- | :--- |
-| 01 | Rediscovering My Coding Vibe — The AI/ML Way 🚀 | N.A. | [Link to LinkedIn Article]() |
+| 01 | Rediscovering My Coding Vibe — The AI/ML Way 🚀 | N.A. | ](https://www.linkedin.com/posts/sameerupare_rediscoveringmycodingvibe-ai-ml-activity-7390058485318676482-dmlL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJx15sBlnTg1rQezqqmyuZD8njBSv1UQp8)|
 | 02 | *Coming Soon* | | |
 | *...* | *...* | *...* | *...* |
 
