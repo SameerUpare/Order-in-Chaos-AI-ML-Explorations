@@ -21,16 +21,14 @@ This journey is about:
 | Week | Topic | Code | Article |
 | :--- | :--- | :--- | :--- |
 | 01 | Rediscovering My Coding Vibe — The AI/ML Way 🚀 | N.A. | ](https://www.linkedin.com/posts/sameerupare_rediscoveringmycodingvibe-ai-ml-activity-7390058485318676482-dmlL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJx15sBlnTg1rQezqqmyuZD8njBSv1UQp8)|
-| 02 | *Coming Soon* | | |
-| *...* | *...* | *...* | *...* |
+| 02 | Teaching Machines to Proeprocess| N.A. | https://www.linkedin.com/pulse/order-chaos-aiml-2-teaching-machines-preprocess-like-sameer-upare-kib6c/|
+| 03 | AI Learning - Time Hallucination | N.A. | https://www.linkedin.com/feed/update/urn:li:activity:7429170613837078528/?originTrackingId=HIwWuWU1EJH30J5LGxW%2Fuw%3D%3D |
 
 *(This table will be updated as new articles and code are published.)*
 
 ## 🎯 What to Expect Here
 
 In this repo, you'll find:
-*   **📝 Detailed Code Walkthroughs:** Well-commented Jupyter notebooks and Python scripts.
-*   **🧪 Hands-On Projects:** Real-world applications, starting with a name-screening system.
 *   **💡 Practical Insights:** Lessons learned, best practices, and "aha!" moments.
 *   **🚀 Rapid Learning Techniques:** How to effectively use AI tools to accelerate development and understanding.
 
